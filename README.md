@@ -1,4 +1,4 @@
-# Keylogger Pro v2.0 – Authorized Pentesting Tool
+# Keylogger 
 
 **Keylogger Pro** is a Python-based keylogging tool with both a modern GUI (Tkinter/ttkbootstrap) and a CLI mode.
 It is intended *only* for authorized security assessments where you have explicit written permission.
